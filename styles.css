@@ -1,0 +1,88 @@
+/* The sidebar menu */
+
+.sidenav {
+  height: 100%;
+  /* Full-height: remove this if you want "auto" height */
+  width: 160px;
+  /* Set the width of the sidebar */
+  position: fixed;
+  /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1;
+  /* Stay on top */
+  top: 0;
+  /* Stay at the top */
+  left: 0;
+  background-color: #006699;
+  /* Black */
+  overflow-x: hidden;
+  /* Disable horizontal scroll */
+  padding-top: 20px;
+  font-size: larger;
+  line-height: 300%;
+  color: #A6D0E6;
+  font-size: small;
+}
+
+li {
+  font-size: 13.3334;
+  color: black;
+}
+
+.Header {
+  top: 0;
+  color: #006699;
+  
+}
+
+.Legacy {
+  padding-left: 200px;
+  padding-right: 100px;
+  color: rgb(2, 116, 131);
+}
+
+/*
+.Amendment {
+  padding-left: 165px;
+  color: rgb(2, 116, 131);
+}
+*/
+
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sidenav a:hover {
+  color: #EFDFA3;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  line-height: 75%;
+  font-size: 20px;
+}
+
+.sidenav a {
+  color: #A6D0E6;
+  text-decoration: none;
+}
+
+.Amendment {
+  /*adding-right: 10%;*/
+
+}
+
+p {
+  font-size: 13.3334;
+  color: black;
+}
+
+.container {
+  display:grid;
+  align-items: center;
+  padding-left: 200px;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 50px;
+}
