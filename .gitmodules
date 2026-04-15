@@ -1,0 +1,12 @@
+[submodule "Games/Maddock-Platformer"]
+	path = Games/Maddock-Platformer
+	url = https://github.com/MADOK1/Maddock-Platformer.git
+[submodule "Games/Maddock-Dress-Up"]
+	path = Games/Maddock-Dress-Up
+	url = https://github.com/MADOK1/Maddock-Dress-Up.git
+[submodule "Games/maddock-desktop-clock"]
+	path = Games/maddock-desktop-clock
+	url = https://github.com/MADOK1/maddock-desktop-clock.git
+[submodule "Games/maddockpearsondesktopgame"]
+	path = Games/maddockpearsondesktopgame
+	url = https://github.com/MADOK1/maddockpearsondesktopgame.git
